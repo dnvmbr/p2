@@ -1,0 +1,18 @@
+body {
+  padding: 10px;
+  background-color: #FF6699;
+  font-family: bariol;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+input {
+  color: #FF6699;
+  text-align: center;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
